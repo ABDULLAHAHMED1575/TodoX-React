@@ -23,7 +23,7 @@ const Navbar = ({ setBgColor, setTextColor }) => {
       <div className='h-20 w-[1000px] flex justify-center text-center align-middle bg-amber-500 rounded-full'>
         <div className='flex space-x-80 mt-4 text-2xl'>
           <div className='text-center align-middle '> 
-            Project Tracker
+            Todo X
           </div>
           <div className='w-12 h-12 bg-white rounded-full flex justify-center items-center'>
             <div
